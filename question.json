@@ -1,1 +1,403 @@
+[
+  {
+    "crewmate": "Welche Jahreszeit magst du am liebsten?",
+    "impostor": "Welche Jahreszeit nervt dich?"
+  },
+  {
+    "crewmate": "Welches Land möchtest du bereisen?",
+    "impostor": "In welchem Land könntest du nie leben?"
+  },
+  {
+    "crewmate": "Was ist dein Traumberuf?",
+    "impostor": "Welcher Job wäre nichts für dich?"
+  },
+  {
+    "crewmate": "Welchen Duft magst du?",
+    "impostor": "Welchen Geruch findest du eklig?"
+  },
+  {
+    "crewmate": "Was motiviert dich?",
+    "impostor": "Was nervt dich im Alltag?"
+  },
+  {
+    "crewmate": "Was macht dich glücklich?",
+    "impostor": "Was stresst dich?"
+  },
+  {
+    "crewmate": "Was ist dein Lieblingsgericht?",
+    "impostor": "Was würdest du nie essen?"
+  },
+  {
+    "crewmate": "Welches Land möchtest du bereisen?",
+    "impostor": "In welchem Land könntest du nie leben?"
+  },
+  {
+    "crewmate": "Welches Schulfach mochtest du?",
+    "impostor": "Welches Fach hast du gehasst?"
+  },
+  {
+    "crewmate": "Was machst du sonntags gerne?",
+    "impostor": "Was vermeidest du am Wochenende?"
+  },
+  {
+    "crewmate": "Welches Schulfach mochtest du?",
+    "impostor": "Welches Fach hast du gehasst?"
+  },
+  {
+    "crewmate": "Welchen Duft magst du?",
+    "impostor": "Welchen Geruch findest du eklig?"
+  },
+  {
+    "crewmate": "Was hast du als Kind gesammelt?",
+    "impostor": "Was fandest du als Kind unnötig?"
+  },
+  {
+    "crewmate": "Was ist dein Lieblingsspiel?",
+    "impostor": "Welches Spiel langweilt dich?"
+  },
+  {
+    "crewmate": "Was macht dich glücklich?",
+    "impostor": "Was stresst dich?"
+  },
+  {
+    "crewmate": "Was machst du gerne im Urlaub?",
+    "impostor": "Was ist dir im Urlaub unangenehm?"
+  },
+  {
+    "crewmate": "Welche App nutzt du täglich?",
+    "impostor": "Welche App hast du sofort gelöscht?"
+  },
+  {
+    "crewmate": "Was ist dein Traumberuf?",
+    "impostor": "Welcher Job wäre nichts für dich?"
+  },
+  {
+    "crewmate": "Was machst du gerne im Urlaub?",
+    "impostor": "Was ist dir im Urlaub unangenehm?"
+  },
+  {
+    "crewmate": "Was hast du als Kind gesammelt?",
+    "impostor": "Was fandest du als Kind unnötig?"
+  },
+  {
+    "crewmate": "Welchen Duft magst du?",
+    "impostor": "Welchen Geruch findest du eklig?"
+  },
+  {
+    "crewmate": "Was bringt dich zum Lachen?",
+    "impostor": "Was macht dich wütend?"
+  },
+  {
+    "crewmate": "Welche Jahreszeit magst du am liebsten?",
+    "impostor": "Welche Jahreszeit nervt dich?"
+  },
+  {
+    "crewmate": "Welche Sportart schaust du gerne?",
+    "impostor": "Welche Sportart würdest du nie machen?"
+  },
+  {
+    "crewmate": "Was machst du gerne im Urlaub?",
+    "impostor": "Was ist dir im Urlaub unangenehm?"
+  },
+  {
+    "crewmate": "Was hast du als Kind gesammelt?",
+    "impostor": "Was fandest du als Kind unnötig?"
+  },
+  {
+    "crewmate": "Was ist dein Lieblingskleidungsstück?",
+    "impostor": "Was würdest du nie anziehen?"
+  },
+  {
+    "crewmate": "Was machst du gerne im Urlaub?",
+    "impostor": "Was ist dir im Urlaub unangenehm?"
+  },
+  {
+    "crewmate": "Was machst du sonntags gerne?",
+    "impostor": "Was vermeidest du am Wochenende?"
+  },
+  {
+    "crewmate": "Was ist dein Lieblingsfeiertag?",
+    "impostor": "Welcher Feiertag ist dir egal?"
+  },
+  {
+    "crewmate": "Was machst du sonntags gerne?",
+    "impostor": "Was vermeidest du am Wochenende?"
+  },
+  {
+    "crewmate": "Welches Schulfach mochtest du?",
+    "impostor": "Welches Fach hast du gehasst?"
+  },
+  {
+    "crewmate": "Was motiviert dich?",
+    "impostor": "Was nervt dich im Alltag?"
+  },
+  {
+    "crewmate": "Was motiviert dich?",
+    "impostor": "Was nervt dich im Alltag?"
+  },
+  {
+    "crewmate": "Welches Schulfach mochtest du?",
+    "impostor": "Welches Fach hast du gehasst?"
+  },
+  {
+    "crewmate": "Was ist dein Traumberuf?",
+    "impostor": "Welcher Job wäre nichts für dich?"
+  },
+  {
+    "crewmate": "Was ist dein Traumberuf?",
+    "impostor": "Welcher Job wäre nichts für dich?"
+  },
+  {
+    "crewmate": "Was würdest du gern besser können?",
+    "impostor": "Womit kommst du gar nicht klar?"
+  },
+  {
+    "crewmate": "Welches Land möchtest du bereisen?",
+    "impostor": "In welchem Land könntest du nie leben?"
+  },
+  {
+    "crewmate": "Welchen Duft magst du?",
+    "impostor": "Welchen Geruch findest du eklig?"
+  },
+  {
+    "crewmate": "Was hast du als Kind gesammelt?",
+    "impostor": "Was fandest du als Kind unnötig?"
+  },
+  {
+    "crewmate": "Was motiviert dich?",
+    "impostor": "Was nervt dich im Alltag?"
+  },
+  {
+    "crewmate": "Was ist dein Lieblingskleidungsstück?",
+    "impostor": "Was würdest du nie anziehen?"
+  },
+  {
+    "crewmate": "Wohin gehst du gern essen?",
+    "impostor": "Wo schmeckt es dir gar nicht?"
+  },
+  {
+    "crewmate": "Was macht dich glücklich?",
+    "impostor": "Was stresst dich?"
+  },
+  {
+    "crewmate": "Welchen Duft magst du?",
+    "impostor": "Welchen Geruch findest du eklig?"
+  },
+  {
+    "crewmate": "Was machst du gerne im Urlaub?",
+    "impostor": "Was ist dir im Urlaub unangenehm?"
+  },
+  {
+    "crewmate": "Welche Sportart schaust du gerne?",
+    "impostor": "Welche Sportart würdest du nie machen?"
+  },
+  {
+    "crewmate": "Welchen Duft magst du?",
+    "impostor": "Welchen Geruch findest du eklig?"
+  },
+  {
+    "crewmate": "Wohin gehst du gern essen?",
+    "impostor": "Wo schmeckt es dir gar nicht?"
+  },
+  {
+    "crewmate": "Was motiviert dich?",
+    "impostor": "Was nervt dich im Alltag?"
+  },
+  {
+    "crewmate": "Was ist dein Traumberuf?",
+    "impostor": "Welcher Job wäre nichts für dich?"
+  },
+  {
+    "crewmate": "Was hast du als Kind gesammelt?",
+    "impostor": "Was fandest du als Kind unnötig?"
+  },
+  {
+    "crewmate": "Was würdest du gern besser können?",
+    "impostor": "Womit kommst du gar nicht klar?"
+  },
+  {
+    "crewmate": "Welcher Künstler inspiriert dich?",
+    "impostor": "Welchen Promi findest du peinlich?"
+  },
+  {
+    "crewmate": "Was motiviert dich?",
+    "impostor": "Was nervt dich im Alltag?"
+  },
+  {
+    "crewmate": "Was motiviert dich?",
+    "impostor": "Was nervt dich im Alltag?"
+  },
+  {
+    "crewmate": "Was macht dich glücklich?",
+    "impostor": "Was stresst dich?"
+  },
+  {
+    "crewmate": "Welches Land möchtest du bereisen?",
+    "impostor": "In welchem Land könntest du nie leben?"
+  },
+  {
+    "crewmate": "Welches Land möchtest du bereisen?",
+    "impostor": "In welchem Land könntest du nie leben?"
+  },
+  {
+    "crewmate": "Was ist dein Lieblingskleidungsstück?",
+    "impostor": "Was würdest du nie anziehen?"
+  },
+  {
+    "crewmate": "Wohin gehst du gern essen?",
+    "impostor": "Wo schmeckt es dir gar nicht?"
+  },
+  {
+    "crewmate": "Was machst du sonntags gerne?",
+    "impostor": "Was vermeidest du am Wochenende?"
+  },
+  {
+    "crewmate": "Was machst du gerne im Urlaub?",
+    "impostor": "Was ist dir im Urlaub unangenehm?"
+  },
+  {
+    "crewmate": "Was machst du sonntags gerne?",
+    "impostor": "Was vermeidest du am Wochenende?"
+  },
+  {
+    "crewmate": "Welche Jahreszeit magst du am liebsten?",
+    "impostor": "Welche Jahreszeit nervt dich?"
+  },
+  {
+    "crewmate": "Was machst du gerne im Urlaub?",
+    "impostor": "Was ist dir im Urlaub unangenehm?"
+  },
+  {
+    "crewmate": "Welches Land möchtest du bereisen?",
+    "impostor": "In welchem Land könntest du nie leben?"
+  },
+  {
+    "crewmate": "Was machst du sonntags gerne?",
+    "impostor": "Was vermeidest du am Wochenende?"
+  },
+  {
+    "crewmate": "Welche App nutzt du täglich?",
+    "impostor": "Welche App hast du sofort gelöscht?"
+  },
+  {
+    "crewmate": "Was ist dein Lieblingsfeiertag?",
+    "impostor": "Welcher Feiertag ist dir egal?"
+  },
+  {
+    "crewmate": "Welchen Duft magst du?",
+    "impostor": "Welchen Geruch findest du eklig?"
+  },
+  {
+    "crewmate": "Was machst du gerne im Urlaub?",
+    "impostor": "Was ist dir im Urlaub unangenehm?"
+  },
+  {
+    "crewmate": "Was macht dich glücklich?",
+    "impostor": "Was stresst dich?"
+  },
+  {
+    "crewmate": "Welcher Künstler inspiriert dich?",
+    "impostor": "Welchen Promi findest du peinlich?"
+  },
+  {
+    "crewmate": "Was machst du gerne im Urlaub?",
+    "impostor": "Was ist dir im Urlaub unangenehm?"
+  },
+  {
+    "crewmate": "Was ist dein Lieblingsfeiertag?",
+    "impostor": "Welcher Feiertag ist dir egal?"
+  },
+  {
+    "crewmate": "Was machst du gerne im Urlaub?",
+    "impostor": "Was ist dir im Urlaub unangenehm?"
+  },
+  {
+    "crewmate": "Was motiviert dich?",
+    "impostor": "Was nervt dich im Alltag?"
+  },
+  {
+    "crewmate": "Was ist dein Traumberuf?",
+    "impostor": "Welcher Job wäre nichts für dich?"
+  },
+  {
+    "crewmate": "Was ist dein Lieblingsspiel?",
+    "impostor": "Welches Spiel langweilt dich?"
+  },
+  {
+    "crewmate": "Was würdest du gern besser können?",
+    "impostor": "Womit kommst du gar nicht klar?"
+  },
+  {
+    "crewmate": "Was motiviert dich?",
+    "impostor": "Was nervt dich im Alltag?"
+  },
+  {
+    "crewmate": "Was motiviert dich?",
+    "impostor": "Was nervt dich im Alltag?"
+  },
+  {
+    "crewmate": "Welchen Duft magst du?",
+    "impostor": "Welchen Geruch findest du eklig?"
+  },
+  {
+    "crewmate": "Welche Sportart schaust du gerne?",
+    "impostor": "Welche Sportart würdest du nie machen?"
+  },
+  {
+    "crewmate": "Was würdest du gern besser können?",
+    "impostor": "Womit kommst du gar nicht klar?"
+  },
+  {
+    "crewmate": "Was ist dein Lieblingskleidungsstück?",
+    "impostor": "Was würdest du nie anziehen?"
+  },
+  {
+    "crewmate": "Wohin gehst du gern essen?",
+    "impostor": "Wo schmeckt es dir gar nicht?"
+  },
+  {
+    "crewmate": "Was würdest du gern besser können?",
+    "impostor": "Womit kommst du gar nicht klar?"
+  },
+  {
+    "crewmate": "Welche Sportart schaust du gerne?",
+    "impostor": "Welche Sportart würdest du nie machen?"
+  },
+  {
+    "crewmate": "Was ist dein Lieblingsgericht?",
+    "impostor": "Was würdest du nie essen?"
+  },
+  {
+    "crewmate": "Was motiviert dich?",
+    "impostor": "Was nervt dich im Alltag?"
+  },
+  {
+    "crewmate": "Welches Schulfach mochtest du?",
+    "impostor": "Welches Fach hast du gehasst?"
+  },
+  {
+    "crewmate": "Was ist dein Lieblingskleidungsstück?",
+    "impostor": "Was würdest du nie anziehen?"
+  },
+  {
+    "crewmate": "Was ist dein Traumberuf?",
+    "impostor": "Welcher Job wäre nichts für dich?"
+  },
+  {
+    "crewmate": "Was ist dein Lieblingskleidungsstück?",
+    "impostor": "Was würdest du nie anziehen?"
+  },
+  {
+    "crewmate": "Was bringt dich zum Lachen?",
+    "impostor": "Was macht dich wütend?"
+  },
+  {
+    "crewmate": "Was machst du sonntags gerne?",
+    "impostor": "Was vermeidest du am Wochenende?"
+  },
+  {
+    "crewmate": "Was ist dein Lieblingsgericht?",
+    "impostor": "Was würdest du nie essen?"
+  }
+]
 
